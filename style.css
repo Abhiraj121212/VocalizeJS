@@ -23,7 +23,6 @@ body::before {
   position: absolute;
   width: 100vw;
   height: 100vh;
-  background: url('https://i.imgur.com/W5T6s4h.png');
   animation: moveParticles 30s linear infinite;
   opacity: 0.2;
 }
